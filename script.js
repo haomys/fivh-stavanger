@@ -54,10 +54,10 @@ L.MarkerClusterGroup.include({
 });
 
 function init() {
-    map = L.map('map', { tap: false, maxZoom: 20, minZoom: 7}).setView([58.96, 5.71], 13);
+    map = L.map('map', { tap: false, maxZoom: 20, minZoom: 7}).setView([58.94, 5.71], 13);
     
     const maplibreLayer = L.maplibreGL({
-        style: 'https://tiles.openfreemap.org/styles/liberty',
+        style: 'https://tiles.openfreemap.org/styles/bright',
         attribution:
             '© OpenStreetMap contributors, tiles by OpenFreeMap, made by Pierre Beauguitte, adapted by Martin Haug',
         maxZoom: 20,
@@ -143,7 +143,7 @@ var translations = {
 	'icon': 'restaurant'
     },
     'bike': {
-	'text': 'Reise og naturopplevelser',
+	'text': 'Sykkel',
 	'icon': 'pedal_bike'
     },
     'clothes': {
@@ -151,7 +151,7 @@ var translations = {
 	'icon': 'checkroom'
     },
     'tools': {
-	'text': 'Reparasjon & -design',
+	'text': 'Reparasjon og verksted',
 	'icon': 'handyman'
     },
     'sports': {
