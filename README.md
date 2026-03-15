@@ -11,5 +11,6 @@ Guiden er en nettapplikasjon som gir deg oversikt over steder i Stavanger og ome
 
     Creds til utvikleren av den originale åpne kildekoden,
     Pierre Beauguitte, som lagde guiden for FIVH Oslo.
-    Det gjorde det mulig for oss å videreutvikle vår egen 
-    guide for FIVH Tromsø, av Martin Haug.
+    Og til FIVH Tromsø som har videreutviklet guiden.
+    Arbeidet de har lagt ned gjorde det mulig for oss å lage vår egen guide.
+
