@@ -159,7 +159,7 @@ var translations = {
 	'icon': 'diversity_1'
     },
     'events': {
-	'text': 'Arrangementer',
+	'text': 'Andre',
 	'icon': 'campaign'
     }
 }
